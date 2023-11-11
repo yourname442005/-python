@@ -1,0 +1,4 @@
+\\calculator of age
+BIRTH_YEAR=input("enter the birth year of the user")
+age=2023-int(BIRTH_YEAR)
+printf(age)
